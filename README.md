@@ -11,20 +11,19 @@
 - 📄 [My Resume](https://drive.google.com/file/d/1EpHx9poQ5DI1eD6s2hzdeacuEgGEdOON/view?usp=share_link)  
 
 ---
-
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/dasariyaswanthsribalachandra" target="blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/dasariyaswanthsribalachandra" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
+  <a href="https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/dasariyaswanthsribalachandra/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40" height="40"/>
+  <a href="https://auth.geeksforgeeks.org/user/dasariyaswanthsribalachandra/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
