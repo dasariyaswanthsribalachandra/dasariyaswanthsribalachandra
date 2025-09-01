@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/dasari-yaswanth-sri-balachandra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/dasariyaswanthsribalachandra" target="_blank">
+  <a href="https://www.hackerrank.com/profile/dasariyaswanths1" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA" target="_blank">
