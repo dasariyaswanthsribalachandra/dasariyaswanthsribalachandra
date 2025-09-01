@@ -29,10 +29,33 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools
+
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,git,github,figma,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,figma" alt="Frontend" />
 </p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
+</p>
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python" alt="Languages" />
+</p>
+
+### Tools & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Tools & VCS" />
+</p>
+
 
 ---
 
