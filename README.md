@@ -20,7 +20,7 @@
   <a href="https://www.hackerrank.com/dasariyaswanthsribalachandra" target="blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/>
   </a>
-  <a href="[https://leetcode.com/dasariyaswanthsribalachandra](https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA/)" target="blank">
+  <a href="https://leetcode.com/u/YASWANTH_SRI_BALACHANDRA" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/dasariyaswanthsribalachandra/" target="blank">
