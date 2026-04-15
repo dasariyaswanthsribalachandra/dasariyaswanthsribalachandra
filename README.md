@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Dasari Yaswanth Sri Balachandra</h1>
-<h3 align="center">💻 Full Stack Developer | 🌐 MERN Enthusiast | 🚀 Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Developer | 📊 Data Science & ML | 🚀 Building Scalable AI Solutions</h3>
 
 ---
 
