@@ -38,7 +38,7 @@
 
 <p align="center">Backend</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="Backend" />
 </p>
 
 <p align="center">Databases</p>
