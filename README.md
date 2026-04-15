@@ -31,29 +31,30 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">Frontend</p>
+
+<p align="center"><b>🎨 Frontend Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,figma" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,figma" />
 </p>
 
-<p align="center">Backend</p>
+<p align="center"><b>⚙️ Backend Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-<p align="center">Databases</p>
+<p align="center"><b>🗄️ Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-<p align="center">Languages</p>
+<p align="center"><b>💻 Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-<p align="center">Tools & Version Control</p>
+<p align="center"><b>🔧 Tools & Version Control</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Tools & VCS" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 
