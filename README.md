@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently learning **MERN Stack**  
+- 🌱 Currently learning **AI/ML**  
 - 👨‍💻 All my projects 👉 [Portfolio](https://superlative-kheer-159b04.netlify.app)  
 - 📫 Reach me at **dasariyaswanthsribalachandra@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/1EpHx9poQ5DI1eD6s2hzdeacuEgGEdOON/view?usp=share_link)  
